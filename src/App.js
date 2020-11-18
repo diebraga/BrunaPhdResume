@@ -10,6 +10,7 @@ import Publications from "./Components/Publications";
 import BlogAr from "./Components/BlogAr";
 import Welcome from "./Components/Welcome";
 import Presentation from "./Components/Presentation";
+import ProfDev from "./Components/ProfDev";
 
 
 class App extends Component {
@@ -53,6 +54,10 @@ class App extends Component {
           id="section8"
         />
 <Presentation />
+<Section
+          id="section9"
+        />
+<ProfDev />
       </div>
 
     );

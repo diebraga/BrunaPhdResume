@@ -35,6 +35,7 @@ export default function Presentations() {
         <br/>
         Pontifícia Universidade Católica de São Paulo, São Paulo, Brazil.
         <br/>
+        <br/>
         This yearly event happens at the university PUC-SP, my alma mater. Its purpose is for graduate students to present their Master and Doctoral research projects. The event is also transmitted online and counts on the help of volunteer students to be organised and run.
       </p>
       </div>
