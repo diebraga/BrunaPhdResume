@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
 import Educator from "./Components/Educator";
 import TeachingExp from "./Components/TeachingExp";
+import ResearchExp from "./Components/ResearchExp";
 import dummyText from "./DummyText";
 
 class App extends Component {
@@ -27,11 +28,10 @@ class App extends Component {
         </Section>
         <TeachingExp />
         <Section
-          title="Section 4"
-          subtitle='ddddddddddddddddddd'
           dark={false}
           id="section4"
         />
+        <ResearchExp />
         <Section
           title="Section 5"
           subtitle={dummyText}

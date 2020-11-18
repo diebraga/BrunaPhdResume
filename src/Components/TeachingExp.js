@@ -47,7 +47,7 @@ UL's School of Education is the largest post-primary teacher education provider 
     <br/><br/>
     For more details on each module taught, please access: <a href='https://bookofmodules.ul.ie/' target='_blank' rel="noopener noreferrer">https://bookofmodules.ul.ie/</a>
     <br/><br/><br/>
-    INTERIM COURSE DIRECTOR – LM091: BACHELOR OF EDUCATION IN LANGUAGES
+    <strong>INTERIM COURSE DIRECTOR – LM091: BACHELOR OF EDUCATION IN LANGUAGES</strong>
     <br/>
     The aim of this four-year programme is to educate teachers and equip them with the skills and aptitudes for a successful career as a languages teacher. Graduates from the programme are qualified to teach two chosen languages in Ireland at both Junior Certificate and Leaving Certificate levels. The languages students can choose from are French, German, Japanese, Spanish and Irish. I dealt with queries from future students as applications for the first year of this programme were about to start when I was the interim course director. My most important contribution while in this position was to lead the Teaching Council accreditation of the programme (the professional body for teaching in Ireland, responsible for regulating the teaching profession and promoting professional standards in teaching). Important and thorough documentary evidence about the programme was produced, reviewed and made available to the Teaching Council to demonstrate that the programme was appropriate for accreditation. It was an extremely detailed work that was successfully completed with the support of a team of experts managed by me. In relation to this team, it was formed by experienced professionals such as course and department leaders from three different faculties.
     <br/><br/>
