@@ -5,6 +5,8 @@ import Section from "./Components/Section";
 import Educator from "./Components/Educator";
 import TeachingExp from "./Components/TeachingExp";
 import ResearchExp from "./Components/ResearchExp";
+import ResearchGrants from "./Components/ResearchGrants";
+
 import dummyText from "./DummyText";
 
 class App extends Component {
@@ -33,10 +35,9 @@ class App extends Component {
         />
         <ResearchExp />
         <Section
-          title="Section 5"
-          subtitle={dummyText}
           id="section5"
         />
+        <ResearchGrants />
       </div>
     );
   }

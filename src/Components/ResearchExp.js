@@ -44,7 +44,6 @@ export default function ResearchExp() {
         <br/><strong className='mr-5'>Universidade Estadual de Campinas (UNICAMP) – Campinas, Brazil</strong>&nbsp; - &nbsp;<strong className='ml-5'>(May 12 – Jan 13)</strong>
         <br/>
         The aim of this research is to describe and analyse the positive affective impacts of pedagogical practices developed by a research supervisor on the relationship between the student and her research practices. The educational psychology framework was based particularly on the studies of Vigotsky and Wallon. It adopted thematic analysis conducted on subject (student) interview. Thus, it was possible to identify in the student’s speech positive impacts of the pedagogical mediation performed by the supervisor and the establishment of an affectively positive relationship between them that allowed an equally positive relationship between the subject and practice of scientific research. 
-        <br/><br/><br/>
         </p>
       </div>
   );

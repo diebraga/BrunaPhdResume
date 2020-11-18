@@ -53,7 +53,6 @@ UL's School of Education is the largest post-primary teacher education provider 
     <br/><br/>
     For more details on the ‘LM091: Bachelor of Education in Languages’, please access: <a href='https://www.ul.ie/courses/bachelor-education-languages' rel="noopener noreferrer">https://www.ul.ie/courses/bachelor-education-languages</a>
     </p>
-    
     </div>
   );
 }
