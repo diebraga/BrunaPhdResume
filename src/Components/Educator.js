@@ -6,17 +6,17 @@ export default class Educator extends Component {
       <>
       <div className='section-content'>
       <h1>About me</h1>
-<div className='acordion' id="accordionExample">
-  <div class="card">
-    <div class="card-header" id="headingTwo">
+<div className='acordion mt-2' id="accordionExample">
+  <div class="">
+    <div class="" id="headingTwo">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-outline-secondary btn-block text-left collapsed p-4 mb-4" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
         BRUNA NOGUEIRA AS AN EDUCATOR
                 </button>
       </h2>
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-      <div class="card-body">
+      <div class="">
       I started teaching English as a second language (ESL) in 2008 in Brazil, the same year that I started my Bachelor of Psychology at Pontifícia Universidade Católica de Campinas. From that moment on, I have not stopped teaching. I have taught English and Portuguese as second languages to students from many different countries and cultures, of all age groups and proficiency levels. I have also taught students with learning difficulties or disabilities, as well as students from risk groups, like those addicted to drugs or from economically disadvantaged families. I have worked as an ESL teacher both in Brazil and in Ireland, in schools, language centres, companies, universities and online with private students. 
 In addition to teaching languages, I have had the opportunity to work with one of my professors while an undergraduate student and mentor first year students. As a mentor, I assisted the professor in tutorials and helped with the correction of exams and activities. All these experiences have brought me a deeper understanding of classroom management and effective practices, teaching strategies, learning processes and, most importantly, how the environment and teacher-student relationships affect students’ progress. In other words, the more I work within education, the more I am convinced that there is no coherent dissociation between cognition and emotions when we deal with human beings. We are complex creatures who deserve to be seen in all our profusion and wealth.
 
@@ -26,16 +26,16 @@ My goal is not to reach a destination, but to keep on sailing further day by day
       </div>
     </div>
   </div>
-  <div class="card">
-    <div class="card-header" id="headingThree">
+  <div class="">
+    <div class="" id="headingThree">
       <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left collapsed h1" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-outline-secondary btn-block text-left collapsed h1 p-4" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         BRUNA NOGUEIRA AS A RESEARCHER
         </button>
       </h2>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-      <div class="card-body">
+      <div class="">
       My career in research started at the most prestigious Brazilian university, the Universidade Estadual de Campinas (UNICAMP). The year was 2010 and I was an undergraduate student of Psychology at the Pontifícia Universidade Católica de Campinas (PUCCAMP) when I started to discover my professional interests. With my engagement in the course, I developed particular interest in research that put together Education and Psychology, with an emphasis on constructivist theories. After extensive independent readings, I was led to Dr Sérgio Leite, who worked at UNICAMP and had many publications that were relevant and aligned with my ideas. We met that same year and, in 2011, we agreed to develop a research project together. We applied for a grant from the most important funding agency of the state known as FAPESP, and the request was approved in 2012. Following that, we began to develop the research that same year. 
 
 It was in the production process of my first research project, together with my growing experience in educational settings working as an ESL teacher that more ideas for future research emerged. The year after I finished my undergraduate studies, I attended conferences and seminars on education, networked with experts, read as much as I could and decided on the topic of my Master’s research: digital technologies and education. 

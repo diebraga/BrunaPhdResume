@@ -44,7 +44,7 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={500}
               >
-                Section 3
+                Teaching Experience
               </Link>
             </li>
             <li className="nav-item">
@@ -56,7 +56,7 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={500}
               >
-                Section 4
+                Research experience
               </Link>
             </li>
             <li className="nav-item">
@@ -68,8 +68,9 @@ export default class Navbar extends Component {
                 offset={-70}
                 duration={500}
               >
-                Section 5
+                Research grants
               </Link>
+
             </li>
           </ul>
         </div>

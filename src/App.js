@@ -22,7 +22,6 @@ class App extends Component {
         />
         <Educator />
         <Section
-          title="Teaching experience"
           id="section3"
         >
         </Section>
