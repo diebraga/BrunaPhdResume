@@ -10,8 +10,8 @@ export default class Navbar extends Component {
     return (
       <nav className="nav" id="navbar">
         <div className="nav-content">
-          <ul className="nav-items">
-            <li className="nav-item">
+          <ul className="nav-items p-3 mt-3">
+            <li className="nav-item btn btn-outline-dark">
               <Link
                 activeClass="active"
                 to="section1"
@@ -23,7 +23,7 @@ export default class Navbar extends Component {
                 Welcome
               </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item btn btn-outline-dark">
               <Link
                 activeClass="active"
                 to="section2"
@@ -35,7 +35,7 @@ export default class Navbar extends Component {
                 About me
               </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item btn btn-outline-dark">
               <Link
                 activeClass="active"
                 to="section3"
@@ -47,7 +47,7 @@ export default class Navbar extends Component {
                 Teaching Experience
               </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item btn btn-outline-dark">
               <Link
                 activeClass="active"
                 to="section4"
@@ -59,7 +59,7 @@ export default class Navbar extends Component {
                 Research experience
               </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item btn btn-outline-dark">
               <Link
                 activeClass="active"
                 to="section5"
@@ -70,7 +70,9 @@ export default class Navbar extends Component {
               >
                 Research grants
               </Link>
-              <li className="nav-item">
+              </li>
+
+              <li className="nav-item btn btn-outline-dark">
               <Link
                 activeClass="active"
                 to="section6"
@@ -83,7 +85,7 @@ export default class Navbar extends Component {
               </Link>
 
             </li>
-            <li className="nav-item">
+            <li className="nav-item btn btn-outline-dark">
               <Link
                 activeClass="active"
                 to="section7"
@@ -95,9 +97,23 @@ export default class Navbar extends Component {
                 Blog Articles
               </Link>
 
-            </li>
 
             </li>
+            <li className="nav-item btn btn-outline-dark">
+              <Link
+                activeClass="active"
+                to="section8"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+              >
+                Presentations and lectures
+              </Link>
+
+
+            </li>
+
           </ul>
         </div>
       </nav>

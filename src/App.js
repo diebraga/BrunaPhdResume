@@ -9,8 +9,8 @@ import ResearchGrants from "./Components/ResearchGrants";
 import Publications from "./Components/Publications";
 import BlogAr from "./Components/BlogAr";
 import Welcome from "./Components/Welcome";
+import Presentation from "./Components/Presentation";
 
-import dummyText from "./DummyText";
 
 class App extends Component {
   render() {
@@ -48,7 +48,11 @@ class App extends Component {
         <Section
           id="section7"
         />
-
+<BlogAr />
+<Section
+          id="section8"
+        />
+<Presentation />
       </div>
 
     );
