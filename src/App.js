@@ -26,10 +26,8 @@ class App extends Component {
         <Section
           id="section1"
         />
-        <Fade duration={1000} cascade>
 
         <Welcome />
-        </Fade>
 
         <Section
           dark={false}
