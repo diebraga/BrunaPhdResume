@@ -3,7 +3,8 @@ This portfolio provides evidence of the development of my work as an educator an
 
 In this document, I will list the work I have previously executed, content I have produced, and achievements I have accumulated. Further to that, I also hope to introduce myself as both a person and a professional, by elaborating upon each meaningful step of my career which has brought me to where I am today. Additionally, I will highlight how my career so far is motivating me to go forward.
 
-To navigate, just scroll down or click on the specific sections on the left of the page.
-.`;
+To navigate, just scroll down or click on the specific sections in the navbar.`;
 
 export default dummyText;
+
+

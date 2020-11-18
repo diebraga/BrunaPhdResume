@@ -2,7 +2,10 @@ import React, { Component } from "react";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
+import Educator from "./Components/Educator";
+import TeachingExp from "./Components/TeachingExp";
 import dummyText from "./DummyText";
+
 class App extends Component {
   render() {
     return (
@@ -11,31 +14,28 @@ class App extends Component {
         <Section
           title="Welcome"
           subtitle={dummyText}
-          dark={true}
           id="section1"
         />
         <Section
-          title="Section 2"
-          subtitle={dummyText}
           dark={false}
           id="section2"
         />
+        <Educator />
         <Section
-          title="Section 3"
-          subtitle={dummyText}
-          dark={true}
+          title="Teaching experience"
           id="section3"
-        />
+        >
+        </Section>
+        <TeachingExp />
         <Section
           title="Section 4"
-          subtitle={dummyText}
+          subtitle='ddddddddddddddddddd'
           dark={false}
           id="section4"
         />
         <Section
           title="Section 5"
           subtitle={dummyText}
-          dark={true}
           id="section5"
         />
       </div>
