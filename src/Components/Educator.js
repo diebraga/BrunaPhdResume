@@ -6,11 +6,12 @@ export default class Educator extends Component {
       <>
       <div className='section-content'>
       <h1>About me</h1>
-<div classNameName='acordion mt-2' id="accordionExample">
+      <hr/>
+<div className='acordion mt-4' id="accordionExample">
   <div className="">
     <div className="" id="headingTwo">
       <h2 className="mb-0">
-        <button className="btn btn-outline-secondary btn-block text-left collapsed p-4 mb-4" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button className="btn btn-outline-dark btn-block text-left collapsed p-4 mb-4" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
         BRUNA NOGUEIRA AS AN EDUCATOR
                 </button>
       </h2>
@@ -29,7 +30,7 @@ My goal is not to reach a destination, but to keep on sailing further day by day
   <div className="">
     <div className="" id="headingThree">
       <h2 className="mb-0">
-        <button className="btn btn-outline-secondary btn-block text-left collapsed h1 p-4" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button className="btn btn-outline-dark btn-block text-left collapsed h1 p-4" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         BRUNA NOGUEIRA AS A RESEARCHER
         </button>
       </h2>

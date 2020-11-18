@@ -4,6 +4,7 @@ export default function Publications() {
   return (
       <div className="section-content">
         <h1>Pubications</h1>
+        <hr/>
         <p className='mt-2'>
         <strong>Nogueira, B. M.</strong>
         (2019) ‘Teaching English as a Second Language to High School students with the support of Facebook and other digital resources’. VI Seminário Web Currículo e XII Encontro de Pesquisadores em Currículo, São Paulo, Brazil, 4-6 Nov. Available: 
@@ -29,7 +30,6 @@ export default function Publications() {
         <a style={{overflowWrap: 'break-word', wordWrap: 'break-word'}} href="http://periodicos.puc-campinas.edu.br/seer/index.php/reveducacao/article/view/2852" target='_blank' rel="noopener noreferrer">http://periodicos.puc-campinas.edu.br/seer/index.php/reveducacao/article/view/2852</a>
         <br/><br/><br/>
         <h3>COURSE MATERIAL</h3>
-        <hr/>
         <strong>Nogueira, B. M.</strong>
         (2019) ‘Understanding connectivism’, EN4022: Educational Technology for Teaching and Learning, University of Limerick, unpublished. Available:
          &nbsp;<a href="">View.</a>

@@ -4,6 +4,7 @@ export default function ResearchGrants() {
   return (
       <div className="section-content">
         <h1>Research Grants</h1>
+        <hr/>
         <p className='mt-2'>
         <strong>RESEARCH TITLE: EDUCATION IN THE CONTEMPORARY CONTEXT AND THE COMPLEX THINKING</strong>
         <br/><strong className='mr-5'>PUC-SP – São Paulo, Brazil</strong>&nbsp; - &nbsp;<strong className='ml-5'>(Jan 14 – Jun 16)</strong>

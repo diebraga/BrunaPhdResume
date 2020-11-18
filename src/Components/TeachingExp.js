@@ -4,6 +4,7 @@ export default function Section() {
   return (
     <div className='section-content'>
       <h1>Teaching Experience</h1>
+      <hr/>
       <p className='mt-2'>
       Here are some of my most recent experiences, all within the <strong>University of Limerick (UL)</strong>, Ireland. To view the complete list of my previous roles and employers as well as the exact dates, please check my CV attached at the end of this portfolio. 
 UL's School of Education is the largest post-primary teacher education provider in the state and is ranked in the top 150 universities in the world for Education programmes. University of Limerick is also ranked within the top 75 universities in Europe for excellence in teaching and learning. 
@@ -11,7 +12,7 @@ UL's School of Education is the largest post-primary teacher education provider 
       <br/>
       <br/>
       <h3>MODULE LEADER AND LECTURER </h3>
-      <hr/>
+      
       <p>
       EN4022: EDUCATIONAL TECHNOLOGY FOR TEACHING AND LEARNING <br/>
       This undergraduate module introduces students to various forms of educational technology providing them with the practical and pedagogical skills to integrate these technologies into their teaching. A core focus of the module is to empower participants to capitalise on the personal, social and educational benefits of technologies whilst recognising the critical questions raised by an increasingly technological society. As a module leader, I taught two hours of lectures to a group of approximately 280 students who would gather in an auditorium twice a week. In addition, I managed a team of two lab instructors who were responsible for teaching two hours of EN4022 tutorials to smaller groups of students. All exams, assignments and how each of them should be graded were also decided by the module leader. I had to deal with any issues concerning students and/or their performance in the module.
@@ -24,7 +25,7 @@ UL's School of Education is the largest post-primary teacher education provider 
     <br/>
     <br/><br/>
     <h3>TUTOR</h3>
-    <hr/>
+    
     <p>
     EN4032: UNDERSTANDING YOUNG PEOPLE AND HOW THEY LEARN <br/>
     This undergraduate module introduces students to key concepts in developmental and educational psychology. It provides students with a critical understanding of key learning theories, examining behavioural, cognitive and constructivist theories from both a historical and contemporary perspective. It also provides a critical understanding of relevant aspects of adolescent development and their applications to teaching, learning and assessment. As a tutor for this module, I offered two hours of teaching every week to several groups of approximately 30 students each. The tutorials were conducted in a way to promote active engagement of students through group work, reflection and discussion. I was also involved in the grading process.

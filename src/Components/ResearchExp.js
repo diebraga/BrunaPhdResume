@@ -4,6 +4,7 @@ export default function ResearchExp() {
   return (
       <div className="section-content">
         <h1>Research experience</h1>
+        <hr/>
         <p className='mt-2'>
         <strong>RESEARCH ASSISTANT</strong>
         <br/><strong className='mr-5'>University of Limerick, Ireland</strong>&nbsp; - &nbsp;<strong className='ml-5'>(Sep 20 – present)</strong>

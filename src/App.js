@@ -7,6 +7,8 @@ import TeachingExp from "./Components/TeachingExp";
 import ResearchExp from "./Components/ResearchExp";
 import ResearchGrants from "./Components/ResearchGrants";
 import Publications from "./Components/Publications";
+import BlogAr from "./Components/BlogAr";
+import Welcome from "./Components/Welcome";
 
 import dummyText from "./DummyText";
 
@@ -16,10 +18,9 @@ class App extends Component {
       <div className="App">
         <Navbar />
         <Section
-          title="Welcome"
-          subtitle={dummyText}
           id="section1"
         />
+        <Welcome />
         <Section
           dark={false}
           id="section2"
@@ -44,7 +45,12 @@ class App extends Component {
           id="section6"
         />
         <Publications />
+        <Section
+          id="section7"
+        />
+
       </div>
+
     );
   }
 }
