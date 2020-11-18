@@ -6,6 +6,7 @@ import Educator from "./Components/Educator";
 import TeachingExp from "./Components/TeachingExp";
 import ResearchExp from "./Components/ResearchExp";
 import ResearchGrants from "./Components/ResearchGrants";
+import Publications from "./Components/Publications";
 
 import dummyText from "./DummyText";
 
@@ -38,6 +39,11 @@ class App extends Component {
           id="section5"
         />
         <ResearchGrants />
+
+        <Section
+          id="section6"
+        />
+        <Publications />
       </div>
     );
   }

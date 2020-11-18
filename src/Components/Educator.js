@@ -6,19 +6,19 @@ export default class Educator extends Component {
       <>
       <div className='section-content'>
       <h1>About me</h1>
-<div className='acordion mt-2' id="accordionExample">
-  <div class="">
-    <div class="" id="headingTwo">
-      <h2 class="mb-0">
-        <button class="btn btn-outline-secondary btn-block text-left collapsed p-4 mb-4" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+<div classNameName='acordion mt-2' id="accordionExample">
+  <div className="">
+    <div className="" id="headingTwo">
+      <h2 className="mb-0">
+        <button className="btn btn-outline-secondary btn-block text-left collapsed p-4 mb-4" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
         BRUNA NOGUEIRA AS AN EDUCATOR
                 </button>
       </h2>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-      <div class="">
+    <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div className="">
       I started teaching English as a second language (ESL) in 2008 in Brazil, the same year that I started my Bachelor of Psychology at Pontifícia Universidade Católica de Campinas. From that moment on, I have not stopped teaching. I have taught English and Portuguese as second languages to students from many different countries and cultures, of all age groups and proficiency levels. I have also taught students with learning difficulties or disabilities, as well as students from risk groups, like those addicted to drugs or from economically disadvantaged families. I have worked as an ESL teacher both in Brazil and in Ireland, in schools, language centres, companies, universities and online with private students. 
-In addition to teaching languages, I have had the opportunity to work with one of my professors while an undergraduate student and mentor first year students. As a mentor, I assisted the professor in tutorials and helped with the correction of exams and activities. All these experiences have brought me a deeper understanding of classroom management and effective practices, teaching strategies, learning processes and, most importantly, how the environment and teacher-student relationships affect students’ progress. In other words, the more I work within education, the more I am convinced that there is no coherent dissociation between cognition and emotions when we deal with human beings. We are complex creatures who deserve to be seen in all our profusion and wealth.
+In addition to teaching languages, I have had the opportunity to work with one of my professors while an undergraduate student and mentor first year students. As a mentor, I assisted the professor in tutorials and helped with the correction of exams and activities. All these experiences have brought me a deeper understanding of classNameroom management and effective practices, teaching strategies, learning processes and, most importantly, how the environment and teacher-student relationships affect students’ progress. In other words, the more I work within education, the more I am convinced that there is no coherent dissociation between cognition and emotions when we deal with human beings. We are complex creatures who deserve to be seen in all our profusion and wealth.
 
 Since moving to Ireland in 2017, I had the amazing opportunity to teach different modules to undergraduate and graduate students in the School of Education at the University of Limerick, one of Ireland’s most prestigious universities. Here, I have been lucky to experience academia from a new perspective. The outcome has been highly positive. I have created great connections and felt respected and valued as a professional. Here in the University of Limerick, I had the confirmation within me that this is what I want to do and that academia is where I want to stay. Therefore, I feel ready and excited to challenge myself with a PhD in Learning Sciences at the Werklund School of Education, University of Calgary, as it will allow me to navigate through new ideas and towards new horizons. 
 
@@ -26,16 +26,16 @@ My goal is not to reach a destination, but to keep on sailing further day by day
       </div>
     </div>
   </div>
-  <div class="">
-    <div class="" id="headingThree">
-      <h2 class="mb-0">
-        <button class="btn btn-outline-secondary btn-block text-left collapsed h1 p-4" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+  <div className="">
+    <div className="" id="headingThree">
+      <h2 className="mb-0">
+        <button className="btn btn-outline-secondary btn-block text-left collapsed h1 p-4" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         BRUNA NOGUEIRA AS A RESEARCHER
         </button>
       </h2>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-      <div class="">
+    <div id="collapseThree" className="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div className="">
       My career in research started at the most prestigious Brazilian university, the Universidade Estadual de Campinas (UNICAMP). The year was 2010 and I was an undergraduate student of Psychology at the Pontifícia Universidade Católica de Campinas (PUCCAMP) when I started to discover my professional interests. With my engagement in the course, I developed particular interest in research that put together Education and Psychology, with an emphasis on constructivist theories. After extensive independent readings, I was led to Dr Sérgio Leite, who worked at UNICAMP and had many publications that were relevant and aligned with my ideas. We met that same year and, in 2011, we agreed to develop a research project together. We applied for a grant from the most important funding agency of the state known as FAPESP, and the request was approved in 2012. Following that, we began to develop the research that same year. 
 
 It was in the production process of my first research project, together with my growing experience in educational settings working as an ESL teacher that more ideas for future research emerged. The year after I finished my undergraduate studies, I attended conferences and seminars on education, networked with experts, read as much as I could and decided on the topic of my Master’s research: digital technologies and education. 
@@ -58,7 +58,7 @@ I am attentive to detail, hard-worker, committed, critical and systematic. In ad
 
 I believe my unique experiences and skillset equip me well for a prosperous career in research. I have developed research that includes both quantitative and qualitative data analysis, but most of my experience adopted qualitative methodologies and analysis only. I believe that the combination of quantitative and qualitative data analysis can enrich discussions and I would be willing to and interested in adopting a mixed approach in future projects if that seemed to significantly strengthen the study. However, despite valuing the addition of quantitative data, I am a lot more comfortable with qualitative data analysis and would be more inclined to favour that on a project developed by me. Most research projects I was involved with in the area of education employed the use of semi-structured one-to-one interviews followed by transcriptions and thematic analysis - with the exception of my Master’s project, explained in more details under ‘research experience’.
 
-In relation to educational psychology frameworks, I see important contributions that come from each of them and I avoid strongly positioning myself against any theory. Instead, I recognize their positives while critically analysing the aspects that could have been better developed in my opinion. I believe in the construction of knowledge through critical thinking, dialogue, creative production and active engagement of learners in their own learning processes. In addition, I am convinced that the environment/context is crucial for the learning to occur and it goes much beyond the school or the classroom. All experiences of a student can affect their learning and should be considered in that process. Previous learnings, diet, quality and amount of sleep, beliefs, culture, self-esteem, traumas, interests and life goals are just some of the many elements that play important roles in how much a student will engage and be able to acquire knowledge. Relationships with friends, teacher and family are equally relevant. That said, a social constructivist tendency is undeniable in my discourse and professional practice.
+In relation to educational psychology frameworks, I see important contributions that come from each of them and I avoid strongly positioning myself against any theory. Instead, I recognize their positives while critically analysing the aspects that could have been better developed in my opinion. I believe in the construction of knowledge through critical thinking, dialogue, creative production and active engagement of learners in their own learning processes. In addition, I am convinced that the environment/context is crucial for the learning to occur and it goes much beyond the school or the classNameroom. All experiences of a student can affect their learning and should be considered in that process. Previous learnings, diet, quality and amount of sleep, beliefs, culture, self-esteem, traumas, interests and life goals are just some of the many elements that play important roles in how much a student will engage and be able to acquire knowledge. Relationships with friends, teacher and family are equally relevant. That said, a social constructivist tendency is undeniable in my discourse and professional practice.
       </div>
     </div>
   </div>

@@ -70,6 +70,19 @@ export default class Navbar extends Component {
               >
                 Research grants
               </Link>
+              <li className="nav-item">
+              <Link
+                activeClass="active"
+                to="section6"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+              >
+                Publications
+              </Link>
+
+            </li>
 
             </li>
           </ul>
