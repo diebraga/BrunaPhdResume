@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
+import { Fade } from "react-awesome-reveal";
+
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
 import Educator from "./Components/Educator";
@@ -11,21 +13,29 @@ import BlogAr from "./Components/BlogAr";
 import Welcome from "./Components/Welcome";
 import Presentation from "./Components/Presentation";
 import ProfDev from "./Components/ProfDev";
+import Cv from "./Components/Cv";
 
 
 class App extends Component {
   render() {
     return (
       <div className="App">
+
         <Navbar />
+
         <Section
           id="section1"
         />
+        <Fade duration={1000} cascade>
+
         <Welcome />
+        </Fade>
+
         <Section
           dark={false}
           id="section2"
         />
+
         <Educator />
         <Section
           id="section3"
@@ -58,6 +68,10 @@ class App extends Component {
           id="section9"
         />
 <ProfDev />
+<Section
+          id="section10"
+        />
+<Cv />
       </div>
 
     );

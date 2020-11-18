@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { ImPlus } from 'react-icons/im'
 export default class Educator extends Component {
 
   render() {
@@ -12,7 +13,7 @@ export default class Educator extends Component {
     <div className="" id="headingTwo">
       <h2 className="mb-0">
         <button className="btn btn-outline-dark btn-block text-left collapsed p-4 mb-4" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        BRUNA NOGUEIRA AS AN EDUCATOR
+        BRUNA NOGUEIRA AS AN EDUCATOR <ImPlus className='ml-5' size={30} />
                 </button>
       </h2>
     </div>
@@ -31,7 +32,7 @@ My goal is not to reach a destination, but to keep on sailing further day by day
     <div className="" id="headingThree">
       <h2 className="mb-0">
         <button className="btn btn-outline-dark btn-block text-left collapsed h1 p-4" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        BRUNA NOGUEIRA AS A RESEARCHER
+        BRUNA NOGUEIRA AS A RESEARCHER <ImPlus className='ml-5' size={30} />
         </button>
       </h2>
     </div>

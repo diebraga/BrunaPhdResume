@@ -127,6 +127,20 @@ export default class Navbar extends Component {
 
 
             </li>
+            <li className="nav-item btn btn-outline-dark">
+              <Link
+                activeClass="active"
+                to="section10"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+              >
+                CV & IELTS
+              </Link>
+
+
+            </li>
 
           </ul>
         </div>
